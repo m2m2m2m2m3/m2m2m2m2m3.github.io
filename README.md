@@ -4,4 +4,4 @@ Welcome to my GitHub Pages site! This repository hosts the source code and conte
 
 Links:
 
-https://github.com/m2m2m2m2m3
+https://m2m2m2m2m3.github.io/
